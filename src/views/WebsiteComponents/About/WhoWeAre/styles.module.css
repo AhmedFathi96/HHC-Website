@@ -1,0 +1,12 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.titleHeader {
+    color: #caa86a !important;
+}
+.content{
+    padding: 0  2rem 0  0;
+}

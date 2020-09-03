@@ -1,0 +1,22 @@
+
+.projectName {
+    color: #caa86a !important;
+
+}
+.projectInfo{
+    color: #ffffff !important;
+}
+
+.valueInfo{
+    transition: all 0.4s;
+}
+.valueInfo:hover{
+    background-color: #caa86a;
+}
+
+.valueInfo:hover .projectInfo{
+    color: #1a1a1a !important;
+}
+.valueInfo:hover .projectDescription{
+    color: #ffffff !important;
+}

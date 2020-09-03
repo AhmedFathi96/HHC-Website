@@ -1,0 +1,6 @@
+.slider{
+    width: 100%;
+}
+.slider .carousel-inner .carousel-caption{
+    color: red !important
+}

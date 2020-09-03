@@ -1,0 +1,24 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #20272d ;
+    padding: 2rem 1.5rem;
+    margin: 5rem 0;
+}
+.image{
+    width: 30px;
+    height: 30px;
+}
+.titleHeader {
+    color: #caa86a ;
+    margin: 1rem 0;
+}
+.content{
+    color: #d6d1d1 ;
+    text-align: center;
+    font-size: 12px;
+    
+}

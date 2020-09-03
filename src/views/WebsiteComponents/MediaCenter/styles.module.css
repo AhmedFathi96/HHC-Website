@@ -1,0 +1,13 @@
+.wrapper{
+    width: 100%;
+    background-color: #343434 !important;
+}
+.rowWrapper:nth-child(even) .cardWrapper{
+    margin: 0 0.1rem;
+}
+.cardTitle{
+    color: #ffffff !important;
+}
+.galleryTitle{
+    color: #caa86a !important;  
+}
